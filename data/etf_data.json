@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-10-20T05:39:14",
+ "generated_at": "2026-10-20T15:16:58",
  "dividends": [
+  {
+   "code": "00400A",
+   "name": "主動國泰動能高息",
+   "ex_date": "2026-11-06",
+   "record_date": "2026-11-14",
+   "pay_date": "2026-12-02",
+   "amount": null,
+   "year_roc": "115",
+   "fill": null,
+   "ref_close": 14.85,
+   "yield_pct": null
+  },
   {
    "code": "00946",
    "name": "群益科技高息成長",
@@ -91,11 +103,11 @@
    "ex_date": "2026-10-22",
    "record_date": "2026-10-28",
    "pay_date": "2026-11-11",
-   "amount": null,
+   "amount": 1.72,
    "year_roc": "115",
    "fill": null,
    "ref_close": 58.0,
-   "yield_pct": null
+   "yield_pct": 2.97
   },
   {
    "code": "00408A",
@@ -15091,7 +15103,7 @@
   {
    "source": "https://www.twse.com.tw/zh/ETFortune/dividendList?stkNo=&startDate=2025&endDate=2026",
    "ok": true,
-   "rows": 804
+   "rows": 805
   },
   {
    "source": "twse daily close",
