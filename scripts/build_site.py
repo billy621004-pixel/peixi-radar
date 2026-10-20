@@ -35,9 +35,9 @@ def page(path, title, desc, body):
 <header><a class="logo" href="{P}">📡 配息雷達</a><nav><a href="{P}">除息行事曆</a><a href="{P}fill-leaderboard/">填息排行</a><a href="{P}months/">月配息表</a><a href="{P}calculator/">現金流試算</a><a href="{P}etf/">ETF列表</a></nav></header>
 <main>{body}
 <div class="slot"><!-- SPONSOR_SLOT -->【贊助版位 placeholder】此處預留給贊助商廣告</div>
-<div class="card"><h3>📬 訂閱除息提醒（即將推出）</h3><form onsubmit="alert('電子報尚未開放，敬請期待！');return false"><!-- NEWSLETTER_PROVIDER: 尚未串接 -->
-<input type="email" placeholder="you@example.com" required> <button>訂閱</button></form><small>目前為預留表單，不會送出或儲存任何資料。</small></div></main>
-<footer><div class="disc"><b>非投資建議</b>：本站資料整理自臺灣證券交易所 ETF e添富及櫃買中心公開資料，僅供參考，不構成任何投資建議；實際配息、日期以發行投信公告為準。殖利率為「單次配息 ÷ 除息前收盤價」估算；最後買進日為除息日前一個工作日（未排除國定假日）。<br>資料更新：{e(D['generated_at'])}</div></footer></body></html>"""
+<div class="card"><h3>📬 訂閱除息提醒</h3><p>每週一封，告訴你這週有哪些 ETF 要除息、哪些填息了。免費。</p><script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="f6a1befc-085a-4927-994c-168ca6fc1854"></script>
+</div></main>
+<footer><div class="disc"><b>非投資建議</b>：本站資料整理自臺灣證券交易所 ETF e添富及櫃買中心公開資料，僅供參考，不構成任何投資建議；實際配息、日期以發行投信公告為準。殖利率為「單次配息 ÷ 除息前收盤價」估算；最後買進日為除息日前一個工作日（未排除國定假日）。<br>資料更新：{e(D['generated_at'])}</div></footer><script type="text/javascript" async src="https://subscribe-forms.beehiiv.com/attribution.js"></script></body></html>"""
     p = OUT / path / "index.html" if not path.endswith(".html") else OUT / path
     p.parent.mkdir(parents=True, exist_ok=True); p.write_text(doc); urls.append(url)
 
