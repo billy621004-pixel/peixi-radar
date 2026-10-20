@@ -119,3 +119,4 @@ out.innerHTML=html+'<table><tr><th>月份</th><th>預估現金流(元)</th></tr>
 (OUT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + "".join(f"<url><loc>{u}</loc><lastmod>{today}</lastmod></url>" for u in urls) + "</urlset>")
 (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {BASE}sitemap.xml\n")
 print("pages", len(urls))
+(OUT / "google274218cc071bb666.html").write_text("google-site-verification: google274218cc071bb666.html")
