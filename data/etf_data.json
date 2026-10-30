@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-10-29T17:01:57",
+ "generated_at": "2026-10-30T16:46:52",
  "dividends": [
+  {
+   "code": "00401A",
+   "name": "主動摩根台灣鑫收",
+   "ex_date": "2026-11-13",
+   "record_date": "2026-11-21",
+   "pay_date": "2026-12-04",
+   "amount": null,
+   "year_roc": "115",
+   "fill": null,
+   "ref_close": 13.11,
+   "yield_pct": null
+  },
   {
    "code": "00940",
    "name": "元大台灣價值高息",
@@ -10,7 +22,7 @@
    "amount": null,
    "year_roc": "115",
    "fill": null,
-   "ref_close": 13.32,
+   "ref_close": 13.08,
    "yield_pct": null
   },
   {
@@ -22,7 +34,7 @@
    "amount": null,
    "year_roc": "115",
    "fill": null,
-   "ref_close": 14.36,
+   "ref_close": 13.8,
    "yield_pct": null
   },
   {
@@ -34,7 +46,7 @@
    "amount": null,
    "year_roc": "115",
    "fill": null,
-   "ref_close": 15.55,
+   "ref_close": 15.23,
    "yield_pct": null
   },
   {
@@ -46,7 +58,7 @@
    "amount": null,
    "year_roc": "115",
    "fill": null,
-   "ref_close": 9.65,
+   "ref_close": 9.66,
    "yield_pct": null
   },
   {
@@ -58,7 +70,7 @@
    "amount": null,
    "year_roc": "115",
    "fill": null,
-   "ref_close": 10.28,
+   "ref_close": 10.33,
    "yield_pct": null
   },
   {
@@ -67,11 +79,11 @@
    "ex_date": "2026-11-03",
    "record_date": "2026-11-09",
    "pay_date": "2026-11-27",
-   "amount": null,
+   "amount": 0.138,
    "year_roc": "115",
    "fill": null,
-   "ref_close": 8.95,
-   "yield_pct": null
+   "ref_close": 8.6,
+   "yield_pct": 1.6
   },
   {
    "code": "00939",
@@ -79,11 +91,11 @@
    "ex_date": "2026-11-03",
    "record_date": "2026-11-09",
    "pay_date": "2026-11-25",
-   "amount": null,
+   "amount": 0.15,
    "year_roc": "115",
    "fill": null,
-   "ref_close": 25.33,
-   "yield_pct": null
+   "ref_close": 25.22,
+   "yield_pct": 0.59
   },
   {
    "code": "00984D",
@@ -91,11 +103,11 @@
    "ex_date": "2026-11-03",
    "record_date": "2026-11-09",
    "pay_date": "2026-11-25",
-   "amount": null,
+   "amount": 0.085,
    "year_roc": "115",
    "fill": null,
-   "ref_close": 9.76,
-   "yield_pct": null
+   "ref_close": 9.75,
+   "yield_pct": 0.87
   },
   {
    "code": "00907",
@@ -108,7 +120,7 @@
    "fill": {
     "status": "open",
     "pre_close": 18.62,
-    "days_so_far": 3,
+    "days_so_far": 4,
     "last_close": 18.31
    },
    "ref_close": 18.62,
@@ -125,8 +137,8 @@
    "fill": {
     "status": "open",
     "pre_close": 58.75,
-    "days_so_far": 4,
-    "last_close": 56.9
+    "days_so_far": 5,
+    "last_close": 55.85
    },
    "ref_close": 58.75,
    "yield_pct": 2.93
@@ -142,8 +154,8 @@
    "fill": {
     "status": "open",
     "pre_close": 10.11,
-    "days_so_far": 5,
-    "last_close": 9.6
+    "days_so_far": 6,
+    "last_close": 9.28
    },
    "ref_close": 10.11,
    "yield_pct": 2.08
@@ -159,8 +171,8 @@
    "fill": {
     "status": "open",
     "pre_close": 29.35,
-    "days_so_far": 5,
-    "last_close": 28.58
+    "days_so_far": 6,
+    "last_close": 27.67
    },
    "ref_close": 29.35,
    "yield_pct": 1.29
@@ -210,8 +222,8 @@
    "fill": {
     "status": "open",
     "pre_close": 14.53,
-    "days_so_far": 6,
-    "last_close": 14.13
+    "days_so_far": 7,
+    "last_close": 14.01
    },
    "ref_close": 14.53,
    "yield_pct": 0.97
@@ -227,8 +239,8 @@
    "fill": {
     "status": "open",
     "pre_close": 29.72,
-    "days_so_far": 6,
-    "last_close": 29.18
+    "days_so_far": 7,
+    "last_close": 28.59
    },
    "ref_close": 29.72,
    "yield_pct": 0.37
@@ -244,8 +256,8 @@
    "fill": {
     "status": "open",
     "pre_close": 75.9,
-    "days_so_far": 6,
-    "last_close": 71.6
+    "days_so_far": 7,
+    "last_close": 67.95
    },
    "ref_close": 75.9,
    "yield_pct": 1.96
@@ -278,8 +290,8 @@
    "fill": {
     "status": "open",
     "pre_close": 26.87,
-    "days_so_far": 6,
-    "last_close": 25.65
+    "days_so_far": 7,
+    "last_close": 24.97
    },
    "ref_close": 26.87,
    "yield_pct": 2.23
@@ -312,8 +324,8 @@
    "fill": {
     "status": "open",
     "pre_close": 34.97,
-    "days_so_far": 6,
-    "last_close": 32.85
+    "days_so_far": 7,
+    "last_close": 32.01
    },
    "ref_close": 34.97,
    "yield_pct": 5.15
@@ -329,8 +341,8 @@
    "fill": {
     "status": "open",
     "pre_close": 42.48,
-    "days_so_far": 6,
-    "last_close": 39.51
+    "days_so_far": 7,
+    "last_close": 38.45
    },
    "ref_close": 42.48,
    "yield_pct": 4.94
@@ -346,8 +358,8 @@
    "fill": {
     "status": "open",
     "pre_close": 38.22,
-    "days_so_far": 6,
-    "last_close": 35.0
+    "days_so_far": 7,
+    "last_close": 33.84
    },
    "ref_close": 38.22,
    "yield_pct": 5.23
@@ -363,8 +375,8 @@
    "fill": {
     "status": "open",
     "pre_close": 30.31,
-    "days_so_far": 6,
-    "last_close": 29.74
+    "days_so_far": 7,
+    "last_close": 29.4
    },
    "ref_close": 30.31,
    "yield_pct": 1.65
@@ -380,8 +392,8 @@
    "fill": {
     "status": "open",
     "pre_close": 21.78,
-    "days_so_far": 6,
-    "last_close": 20.98
+    "days_so_far": 7,
+    "last_close": 20.63
    },
    "ref_close": 21.78,
    "yield_pct": 1.65
@@ -397,8 +409,8 @@
    "fill": {
     "status": "open",
     "pre_close": 22.65,
-    "days_so_far": 6,
-    "last_close": 22.14
+    "days_so_far": 7,
+    "last_close": 21.74
    },
    "ref_close": 22.65,
    "yield_pct": 0.48
@@ -431,8 +443,8 @@
    "fill": {
     "status": "open",
     "pre_close": 18.06,
-    "days_so_far": 6,
-    "last_close": 17.48
+    "days_so_far": 7,
+    "last_close": 16.93
    },
    "ref_close": 18.06,
    "yield_pct": 0.66
@@ -448,8 +460,8 @@
    "fill": {
     "status": "open",
     "pre_close": 13.79,
-    "days_so_far": 6,
-    "last_close": 13.42
+    "days_so_far": 7,
+    "last_close": 13.57
    },
    "ref_close": 13.79,
    "yield_pct": 2.18
@@ -463,10 +475,10 @@
    "amount": 0.28,
    "year_roc": "115",
    "fill": {
-    "status": "open",
+    "status": "filled",
     "pre_close": 23.49,
-    "days_so_far": 6,
-    "last_close": 23.15
+    "days": 7,
+    "filled_date": "2026-10-30"
    },
    "ref_close": 23.49,
    "yield_pct": 1.19
@@ -482,8 +494,8 @@
    "fill": {
     "status": "open",
     "pre_close": 13.66,
-    "days_so_far": 6,
-    "last_close": 13.52
+    "days_so_far": 7,
+    "last_close": 13.4
    },
    "ref_close": 13.66,
    "yield_pct": 0.66
@@ -499,8 +511,8 @@
    "fill": {
     "status": "open",
     "pre_close": 12.8,
-    "days_so_far": 6,
-    "last_close": 12.41
+    "days_so_far": 7,
+    "last_close": 12.55
    },
    "ref_close": 12.8,
    "yield_pct": 0.78
@@ -516,8 +528,8 @@
    "fill": {
     "status": "open",
     "pre_close": 15.13,
-    "days_so_far": 6,
-    "last_close": 14.5
+    "days_so_far": 7,
+    "last_close": 14.42
    },
    "ref_close": 15.13,
    "yield_pct": 1.32
@@ -533,8 +545,8 @@
    "fill": {
     "status": "open",
     "pre_close": 11.73,
-    "days_so_far": 6,
-    "last_close": 11.67
+    "days_so_far": 7,
+    "last_close": 11.62
    },
    "ref_close": 11.73,
    "yield_pct": 0.7
@@ -584,8 +596,8 @@
    "fill": {
     "status": "open",
     "pre_close": 16.0,
-    "days_so_far": 6,
-    "last_close": 15.13
+    "days_so_far": 7,
+    "last_close": 14.8
    },
    "ref_close": 16.0,
    "yield_pct": 2.96
@@ -601,8 +613,8 @@
    "fill": {
     "status": "open",
     "pre_close": 23.14,
-    "days_so_far": 6,
-    "last_close": 20.37
+    "days_so_far": 7,
+    "last_close": 19.81
    },
    "ref_close": 23.14,
    "yield_pct": 9.29
@@ -618,8 +630,8 @@
    "fill": {
     "status": "open",
     "pre_close": 18.42,
-    "days_so_far": 6,
-    "last_close": 16.63
+    "days_so_far": 7,
+    "last_close": 15.81
    },
    "ref_close": 18.42,
    "yield_pct": 4.61
@@ -635,8 +647,8 @@
    "fill": {
     "status": "open",
     "pre_close": 17.02,
-    "days_so_far": 6,
-    "last_close": 15.69
+    "days_so_far": 7,
+    "last_close": 15.03
    },
    "ref_close": 17.02,
    "yield_pct": 2.94
@@ -652,8 +664,8 @@
    "fill": {
     "status": "open",
     "pre_close": 14.3,
-    "days_so_far": 6,
-    "last_close": 12.72
+    "days_so_far": 7,
+    "last_close": 12.18
    },
    "ref_close": 14.3,
    "yield_pct": 5.1
@@ -669,8 +681,8 @@
    "fill": {
     "status": "open",
     "pre_close": 71.85,
-    "days_so_far": 7,
-    "last_close": 67.55
+    "days_so_far": 8,
+    "last_close": 66.35
    },
    "ref_close": 71.85,
    "yield_pct": 3.48
@@ -686,8 +698,8 @@
    "fill": {
     "status": "open",
     "pre_close": 41.22,
-    "days_so_far": 7,
-    "last_close": 38.39
+    "days_so_far": 8,
+    "last_close": 37.27
    },
    "ref_close": 41.22,
    "yield_pct": 5.34
@@ -720,8 +732,8 @@
    "fill": {
     "status": "open",
     "pre_close": 37.34,
-    "days_so_far": 7,
-    "last_close": 35.5
+    "days_so_far": 8,
+    "last_close": 34.09
    },
    "ref_close": 37.34,
    "yield_pct": 5.36
@@ -737,8 +749,8 @@
    "fill": {
     "status": "open",
     "pre_close": 14.92,
-    "days_so_far": 7,
-    "last_close": 14.43
+    "days_so_far": 8,
+    "last_close": 14.01
    },
    "ref_close": 14.92,
    "yield_pct": 1.68
@@ -754,8 +766,8 @@
    "fill": {
     "status": "open",
     "pre_close": 15.0,
-    "days_so_far": 7,
-    "last_close": 14.57
+    "days_so_far": 8,
+    "last_close": 14.58
    },
    "ref_close": 15.0,
    "yield_pct": 2.0
@@ -771,8 +783,8 @@
    "fill": {
     "status": "open",
     "pre_close": 14.39,
-    "days_so_far": 8,
-    "last_close": 13.48
+    "days_so_far": 9,
+    "last_close": 13.11
    },
    "ref_close": 14.39,
    "yield_pct": 0.91
@@ -788,8 +800,8 @@
    "fill": {
     "status": "open",
     "pre_close": 16.47,
-    "days_so_far": 12,
-    "last_close": 14.36
+    "days_so_far": 13,
+    "last_close": 13.8
    },
    "ref_close": 16.47,
    "yield_pct": 0.73
@@ -924,8 +936,8 @@
    "fill": {
     "status": "open",
     "pre_close": 24.81,
-    "days_so_far": 21,
-    "last_close": 23.18
+    "days_so_far": 22,
+    "last_close": 22.76
    },
    "ref_close": 24.81,
    "yield_pct": 3.28
@@ -975,8 +987,8 @@
    "fill": {
     "status": "open",
     "pre_close": 36.25,
-    "days_so_far": 24,
-    "last_close": 34.71
+    "days_so_far": 25,
+    "last_close": 34.41
    },
    "ref_close": 36.25,
    "yield_pct": 4.83
@@ -1009,8 +1021,8 @@
    "fill": {
     "status": "open",
     "pre_close": 19.06,
-    "days_so_far": 25,
-    "last_close": 18.94
+    "days_so_far": 26,
+    "last_close": 18.93
    },
    "ref_close": 19.06,
    "yield_pct": 2.05
@@ -1024,10 +1036,10 @@
    "amount": 0.2,
    "year_roc": "115",
    "fill": {
-    "status": "open",
+    "status": "filled",
     "pre_close": 15.34,
-    "days_so_far": 25,
-    "last_close": 15.32
+    "days": 26,
+    "filled_date": "2026-10-30"
    },
    "ref_close": 15.34,
    "yield_pct": 1.3
@@ -1043,8 +1055,8 @@
    "fill": {
     "status": "open",
     "pre_close": 8.21,
-    "days_so_far": 25,
-    "last_close": 7.16
+    "days_so_far": 26,
+    "last_close": 7.26
    },
    "ref_close": 8.21,
    "yield_pct": 2.44
@@ -1111,8 +1123,8 @@
    "fill": {
     "status": "open",
     "pre_close": 67.75,
-    "days_so_far": 26,
-    "last_close": 63.75
+    "days_so_far": 27,
+    "last_close": 62.25
    },
    "ref_close": 67.75,
    "yield_pct": 8.86
@@ -1332,8 +1344,8 @@
    "fill": {
     "status": "open",
     "pre_close": 13.11,
-    "days_so_far": 26,
-    "last_close": 12.41
+    "days_so_far": 27,
+    "last_close": 12.55
    },
    "ref_close": 13.11,
    "yield_pct": 0.76
@@ -1468,8 +1480,8 @@
    "fill": {
     "status": "open",
     "pre_close": 15.78,
-    "days_so_far": 26,
-    "last_close": 14.5
+    "days_so_far": 27,
+    "last_close": 14.17
    },
    "ref_close": 15.78,
    "yield_pct": 6.34
@@ -1706,8 +1718,8 @@
    "fill": {
     "status": "open",
     "pre_close": 10.01,
-    "days_so_far": 37,
-    "last_close": 9.76
+    "days_so_far": 38,
+    "last_close": 9.75
    },
    "ref_close": 10.01,
    "yield_pct": 0.85
@@ -1740,8 +1752,8 @@
    "fill": {
     "status": "open",
     "pre_close": 15.65,
-    "days_so_far": 44,
-    "last_close": 14.85
+    "days_so_far": 45,
+    "last_close": 14.78
    },
    "ref_close": 15.65,
    "yield_pct": 1.34
@@ -1876,8 +1888,8 @@
    "fill": {
     "status": "open",
     "pre_close": 55.15,
-    "days_so_far": 47,
-    "last_close": 48.38
+    "days_so_far": 48,
+    "last_close": 46.9
    },
    "ref_close": 55.15,
    "yield_pct": 8.34
@@ -2063,8 +2075,8 @@
    "fill": {
     "status": "open",
     "pre_close": 14.57,
-    "days_so_far": 47,
-    "last_close": 14.48
+    "days_so_far": 48,
+    "last_close": 14.51
    },
    "ref_close": 14.57,
    "yield_pct": 0.62
@@ -2148,8 +2160,8 @@
    "fill": {
     "status": "open",
     "pre_close": 12.57,
-    "days_so_far": 47,
-    "last_close": 11.43
+    "days_so_far": 48,
+    "last_close": 11.14
    },
    "ref_close": 12.57,
    "yield_pct": 7.96
@@ -2199,8 +2211,8 @@
    "fill": {
     "status": "open",
     "pre_close": 11.94,
-    "days_so_far": 47,
-    "last_close": 11.67
+    "days_so_far": 48,
+    "last_close": 11.62
    },
    "ref_close": 11.94,
    "yield_pct": 0.69
@@ -2233,8 +2245,8 @@
    "fill": {
     "status": "open",
     "pre_close": 9.79,
-    "days_so_far": 47,
-    "last_close": 9.58
+    "days_so_far": 48,
+    "last_close": 9.6
    },
    "ref_close": 9.79,
    "yield_pct": 0.53
@@ -2250,8 +2262,8 @@
    "fill": {
     "status": "open",
     "pre_close": 10.0,
-    "days_so_far": 47,
-    "last_close": 9.9
+    "days_so_far": 48,
+    "last_close": 9.91
    },
    "ref_close": 10.0,
    "yield_pct": 0.6
@@ -2265,10 +2277,10 @@
    "amount": 0.35,
    "year_roc": "115",
    "fill": {
-    "status": "open",
+    "status": "filled",
     "pre_close": 31.46,
-    "days_so_far": 48,
-    "last_close": 31.43
+    "days": 49,
+    "filled_date": "2026-10-30"
    },
    "ref_close": 31.46,
    "yield_pct": 1.11
@@ -2386,8 +2398,8 @@
    "fill": {
     "status": "open",
     "pre_close": 9.83,
-    "days_so_far": 57,
-    "last_close": 9.65
+    "days_so_far": 58,
+    "last_close": 9.66
    },
    "ref_close": 9.83,
    "yield_pct": 0.62
@@ -2403,8 +2415,8 @@
    "fill": {
     "status": "open",
     "pre_close": 10.41,
-    "days_so_far": 57,
-    "last_close": 10.28
+    "days_so_far": 58,
+    "last_close": 10.33
    },
    "ref_close": 10.41,
    "yield_pct": 0.51
@@ -2454,8 +2466,8 @@
    "fill": {
     "status": "open",
     "pre_close": 10.21,
-    "days_so_far": 59,
-    "last_close": 9.76
+    "days_so_far": 60,
+    "last_close": 9.75
    },
    "ref_close": 10.21,
    "yield_pct": 0.83
@@ -2794,8 +2806,8 @@
    "fill": {
     "status": "open",
     "pre_close": 62.6,
-    "days_so_far": 70,
-    "last_close": 52.45
+    "days_so_far": 71,
+    "last_close": 50.85
    },
    "ref_close": 62.6,
    "yield_pct": 5.59
@@ -2828,8 +2840,8 @@
    "fill": {
     "status": "open",
     "pre_close": 41.29,
-    "days_so_far": 70,
-    "last_close": 35.0
+    "days_so_far": 71,
+    "last_close": 33.84
    },
    "ref_close": 41.29,
    "yield_pct": 4.55
@@ -2862,8 +2874,8 @@
    "fill": {
     "status": "open",
     "pre_close": 22.42,
-    "days_so_far": 70,
-    "last_close": 20.98
+    "days_so_far": 71,
+    "last_close": 20.63
    },
    "ref_close": 22.42,
    "yield_pct": 0.54
@@ -3032,8 +3044,8 @@
    "fill": {
     "status": "open",
     "pre_close": 12.22,
-    "days_so_far": 70,
-    "last_close": 11.67
+    "days_so_far": 71,
+    "last_close": 11.62
    },
    "ref_close": 12.22,
    "yield_pct": 0.67
@@ -3287,8 +3299,8 @@
    "fill": {
     "status": "open",
     "pre_close": 13.63,
-    "days_so_far": 77,
-    "last_close": 10.8
+    "days_so_far": 78,
+    "last_close": 10.47
    },
    "ref_close": 13.63,
    "yield_pct": 2.71
@@ -3508,8 +3520,8 @@
    "fill": {
     "status": "open",
     "pre_close": 29.0,
-    "days_so_far": 90,
-    "last_close": 26.92
+    "days_so_far": 91,
+    "last_close": 26.08
    },
    "ref_close": 29.0,
    "yield_pct": 4.31
@@ -4035,8 +4047,8 @@
    "fill": {
     "status": "open",
     "pre_close": 16.1,
-    "days_so_far": 107,
-    "last_close": 14.85
+    "days_so_far": 108,
+    "last_close": 14.78
    },
    "ref_close": 16.1,
    "yield_pct": 1.3
@@ -5803,8 +5815,8 @@
    "fill": {
     "status": "open",
     "pre_close": 10.28,
-    "days_so_far": 152,
-    "last_close": 9.9
+    "days_so_far": 153,
+    "last_close": 9.91
    },
    "ref_close": 10.28,
    "yield_pct": 0.58
@@ -5990,8 +6002,8 @@
    "fill": {
     "status": "open",
     "pre_close": 16.4,
-    "days_so_far": 164,
-    "last_close": 14.85
+    "days_so_far": 165,
+    "last_close": 14.78
    },
    "ref_close": 16.4,
    "yield_pct": 1.28
@@ -6364,8 +6376,8 @@
    "fill": {
     "status": "open",
     "pre_close": 33.41,
-    "days_so_far": 158,
-    "last_close": 31.43
+    "days_so_far": 159,
+    "last_close": 31.62
    },
    "ref_close": 33.41,
    "yield_pct": 1.05
@@ -6449,8 +6461,8 @@
    "fill": {
     "status": "open",
     "pre_close": 10.27,
-    "days_so_far": 165,
-    "last_close": 9.58
+    "days_so_far": 166,
+    "last_close": 9.6
    },
    "ref_close": 10.27,
    "yield_pct": 0.51
@@ -6993,8 +7005,8 @@
    "fill": {
     "status": "open",
     "pre_close": 31.8,
-    "days_so_far": 185,
-    "last_close": 23.24
+    "days_so_far": 186,
+    "last_close": 23.5
    },
    "ref_close": 31.8,
    "yield_pct": 11.01
@@ -12025,8 +12037,8 @@
    "fill": {
     "status": "open",
     "pre_close": 14.82,
-    "days_so_far": 372,
-    "last_close": 14.48
+    "days_so_far": 373,
+    "last_close": 14.51
    },
    "ref_close": 14.82,
    "yield_pct": 0.69
@@ -12263,8 +12275,8 @@
    "fill": {
     "status": "open",
     "pre_close": 10.3,
-    "days_so_far": 383,
-    "last_close": 9.65
+    "days_so_far": 384,
+    "last_close": 9.66
    },
    "ref_close": 10.3,
    "yield_pct": 0.68
@@ -12365,8 +12377,8 @@
    "fill": {
     "status": "open",
     "pre_close": 20.27,
-    "days_so_far": 393,
-    "last_close": 18.94
+    "days_so_far": 394,
+    "last_close": 18.93
    },
    "ref_close": 20.27,
    "yield_pct": 1.58
@@ -12399,8 +12411,8 @@
    "fill": {
     "status": "open",
     "pre_close": 10.19,
-    "days_so_far": 393,
-    "last_close": 7.16
+    "days_so_far": 394,
+    "last_close": 7.26
    },
    "ref_close": 10.19,
    "yield_pct": 1.8
@@ -12705,8 +12717,8 @@
    "fill": {
     "status": "open",
     "pre_close": 10.35,
-    "days_so_far": 402,
-    "last_close": 9.65
+    "days_so_far": 403,
+    "last_close": 9.66
    },
    "ref_close": 10.35,
    "yield_pct": 0.68
@@ -12756,8 +12768,8 @@
    "fill": {
     "status": "open",
     "pre_close": 17.83,
-    "days_so_far": 410,
-    "last_close": 14.85
+    "days_so_far": 411,
+    "last_close": 14.78
    },
    "ref_close": 17.83,
    "yield_pct": 1.23
@@ -13028,8 +13040,8 @@
    "fill": {
     "status": "open",
     "pre_close": 15.59,
-    "days_so_far": 413,
-    "last_close": 14.48
+    "days_so_far": 414,
+    "last_close": 14.51
    },
    "ref_close": 15.59,
    "yield_pct": 0.64
@@ -13079,8 +13091,8 @@
    "fill": {
     "status": "open",
     "pre_close": 10.37,
-    "days_so_far": 416,
-    "last_close": 9.65
+    "days_so_far": 417,
+    "last_close": 9.66
    },
    "ref_close": 10.37,
    "yield_pct": 0.68
@@ -13283,8 +13295,8 @@
    "fill": {
     "status": "open",
     "pre_close": 16.26,
-    "days_so_far": 428,
-    "last_close": 14.13
+    "days_so_far": 429,
+    "last_close": 14.01
    },
    "ref_close": 16.26,
    "yield_pct": 0.97
@@ -13555,8 +13567,8 @@
    "fill": {
     "status": "open",
     "pre_close": 15.65,
-    "days_so_far": 428,
-    "last_close": 14.48
+    "days_so_far": 429,
+    "last_close": 14.51
    },
    "ref_close": 15.65,
    "yield_pct": 0.64
@@ -13666,896 +13678,896 @@
  ],
  "latest_close": {
   "0050": {
-   "date": "2026-10-29",
-   "close": 107.25
+   "date": "2026-10-30",
+   "close": 104.95
   },
   "0051": {
-   "date": "2026-10-29",
-   "close": 147.85
+   "date": "2026-10-30",
+   "close": 143.75
   },
   "0052": {
-   "date": "2026-10-29",
-   "close": 62.15
+   "date": "2026-10-30",
+   "close": 60.8
   },
   "0053": {
-   "date": "2026-10-29",
-   "close": 238.2
+   "date": "2026-10-30",
+   "close": 232.1
   },
   "0055": {
-   "date": "2026-10-29",
-   "close": 52.5
+   "date": "2026-10-30",
+   "close": 52.4
   },
   "0056": {
-   "date": "2026-10-29",
-   "close": 56.9
+   "date": "2026-10-30",
+   "close": 55.85
   },
   "0057": {
-   "date": "2026-10-29",
-   "close": 318.7
+   "date": "2026-10-30",
+   "close": 313.05
   },
   "0061": {
-   "date": "2026-10-29",
-   "close": 22.22
+   "date": "2026-10-30",
+   "close": 22.14
   },
   "006203": {
-   "date": "2026-10-29",
-   "close": 193.3
+   "date": "2026-10-30",
+   "close": 189.9
   },
   "006204": {
-   "date": "2026-10-29",
-   "close": 232.0
+   "date": "2026-10-30",
+   "close": 228.05
   },
   "006205": {
-   "date": "2026-10-29",
-   "close": 38.6
+   "date": "2026-10-30",
+   "close": 38.41
   },
   "006206": {
-   "date": "2026-10-29",
-   "close": 36.98
+   "date": "2026-10-30",
+   "close": 36.88
   },
   "006207": {
-   "date": "2026-10-29",
-   "close": 29.69
+   "date": "2026-10-30",
+   "close": 29.73
   },
   "006208": {
-   "date": "2026-10-29",
-   "close": 245.75
+   "date": "2026-10-30",
+   "close": 240.75
   },
   "00631L": {
-   "date": "2026-10-29",
-   "close": 35.89
+   "date": "2026-10-30",
+   "close": 34.16
   },
   "00632R": {
-   "date": "2026-10-29",
-   "close": 9.85
+   "date": "2026-10-30",
+   "close": 10.08
   },
   "00633L": {
-   "date": "2026-10-29",
-   "close": 39.21
+   "date": "2026-10-30",
+   "close": 38.79
   },
   "00634R": {
-   "date": "2026-10-29",
-   "close": 3.45
+   "date": "2026-10-30",
+   "close": 3.47
   },
   "00635U": {
-   "date": "2026-10-29",
-   "close": 41.56
+   "date": "2026-10-30",
+   "close": 41.09
   },
   "00636": {
-   "date": "2026-10-29",
-   "close": 25.38
+   "date": "2026-10-30",
+   "close": 25.28
   },
   "00636K": {
-   "date": "2026-10-29",
-   "close": 7.6
+   "date": "2026-10-30",
+   "close": 7.54
   },
   "00637L": {
-   "date": "2026-10-29",
-   "close": 16.33
+   "date": "2026-10-30",
+   "close": 16.13
   },
   "00638R": {
-   "date": "2026-10-29",
-   "close": 7.45
+   "date": "2026-10-30",
+   "close": 7.48
   },
   "00639": {
-   "date": "2026-10-29",
-   "close": 13.54
+   "date": "2026-10-30",
+   "close": 13.41
   },
   "00640L": {
-   "date": "2026-10-29",
-   "close": 103.5
+   "date": "2026-10-30",
+   "close": 101.15
   },
   "00641R": {
-   "date": "2026-10-29",
-   "close": 3.74
+   "date": "2026-10-30",
+   "close": 3.77
   },
   "00642U": {
-   "date": "2026-10-29",
-   "close": 35.45
+   "date": "2026-10-30",
+   "close": 36.08
   },
   "00643": {
-   "date": "2026-10-29",
-   "close": 15.66
+   "date": "2026-10-30",
+   "close": 15.46
   },
   "00645": {
-   "date": "2026-10-29",
-   "close": 56.7
+   "date": "2026-10-30",
+   "close": 56.25
   },
   "00646": {
-   "date": "2026-10-29",
-   "close": 78.9
+   "date": "2026-10-30",
+   "close": 78.6
   },
   "00647L": {
-   "date": "2026-10-29",
-   "close": 141.3
+   "date": "2026-10-30",
+   "close": 138.6
   },
   "00648R": {
-   "date": "2026-10-29",
-   "close": 3.91
+   "date": "2026-10-30",
+   "close": 3.96
   },
   "00650L": {
-   "date": "2026-10-29",
-   "close": 14.37
+   "date": "2026-10-30",
+   "close": 14.67
   },
   "00651R": {
-   "date": "2026-10-29",
-   "close": 5.65
+   "date": "2026-10-30",
+   "close": 5.59
   },
   "00652": {
-   "date": "2026-10-29",
-   "close": 32.03
+   "date": "2026-10-30",
+   "close": 32.13
   },
   "00653L": {
-   "date": "2026-10-29",
-   "close": 41.5
+   "date": "2026-10-30",
+   "close": 41.71
   },
   "00654R": {
-   "date": "2026-10-29",
-   "close": 7.16
+   "date": "2026-10-30",
+   "close": 7.09
   },
   "00655L": {
-   "date": "2026-10-29",
-   "close": 27.36
+   "date": "2026-10-30",
+   "close": 27.04
   },
   "00656R": {
-   "date": "2026-10-29",
-   "close": 6.59
+   "date": "2026-10-30",
+   "close": 6.61
   },
   "00657": {
-   "date": "2026-10-29",
-   "close": 76.9
+   "date": "2026-10-30",
+   "close": 75.3
   },
   "00657K": {
-   "date": "2026-10-29",
-   "close": 23.52
+   "date": "2026-10-30",
+   "close": 23.01
   },
   "00660": {
-   "date": "2026-10-29",
-   "close": 45.14
+   "date": "2026-10-30",
+   "close": 45.39
   },
   "00661": {
-   "date": "2026-10-29",
-   "close": 83.95
+   "date": "2026-10-30",
+   "close": 82.2
   },
   "00662": {
-   "date": "2026-10-29",
-   "close": 123.6
+   "date": "2026-10-30",
+   "close": 120.85
   },
   "00663L": {
-   "date": "2026-10-29",
-   "close": 103.55
+   "date": "2026-10-30",
+   "close": 97.95
   },
   "00664R": {
-   "date": "2026-10-29",
-   "close": 1.58
+   "date": "2026-10-30",
+   "close": 1.63
   },
   "00665L": {
-   "date": "2026-10-29",
-   "close": 8.14
+   "date": "2026-10-30",
+   "close": 8.29
   },
   "00666R": {
-   "date": "2026-10-29",
-   "close": 9.73
+   "date": "2026-10-30",
+   "close": 9.65
   },
   "00668": {
-   "date": "2026-10-29",
-   "close": 62.8
+   "date": "2026-10-30",
+   "close": 62.25
   },
   "00668K": {
-   "date": "2026-10-29",
-   "close": 19.17
+   "date": "2026-10-30",
+   "close": 19.11
   },
   "00669R": {
-   "date": "2026-10-29",
-   "close": 5.32
+   "date": "2026-10-30",
+   "close": 5.37
   },
   "00670L": {
-   "date": "2026-10-29",
-   "close": 197.55
+   "date": "2026-10-30",
+   "close": 187.8
   },
   "00671R": {
-   "date": "2026-10-29",
-   "close": 2.43
+   "date": "2026-10-30",
+   "close": 2.49
   },
   "00673R": {
-   "date": "2026-10-29",
-   "close": 9.53
+   "date": "2026-10-30",
+   "close": 9.37
   },
   "00674R": {
-   "date": "2026-10-29",
-   "close": 30.44
+   "date": "2026-10-30",
+   "close": 30.74
   },
   "00675L": {
-   "date": "2026-10-29",
-   "close": 313.2
+   "date": "2026-10-30",
+   "close": 296.3
   },
   "00676R": {
-   "date": "2026-10-29",
-   "close": 5.42
+   "date": "2026-10-30",
+   "close": 5.56
   },
   "00678": {
-   "date": "2026-10-29",
-   "close": 46.26
+   "date": "2026-10-30",
+   "close": 45.92
   },
   "00680L": {
-   "date": "2026-10-29",
-   "close": 6.28
+   "date": "2026-10-30",
+   "close": 6.36
   },
   "00681R": {
-   "date": "2026-10-29",
-   "close": 22.04
+   "date": "2026-10-30",
+   "close": 21.84
   },
   "00682U": {
    "date": "2026-10-29",
    "close": 21.07
   },
   "00683L": {
-   "date": "2026-10-29",
-   "close": 22.65
+   "date": "2026-10-30",
+   "close": 22.59
   },
   "00684R": {
-   "date": "2026-10-29",
-   "close": 14.67
+   "date": "2026-10-30",
+   "close": 14.82
   },
   "00685L": {
-   "date": "2026-10-29",
-   "close": 11.86
+   "date": "2026-10-30",
+   "close": 11.24
   },
   "00686R": {
-   "date": "2026-10-29",
-   "close": 0.97
+   "date": "2026-10-30",
+   "close": 0.99
   },
   "00688L": {
-   "date": "2026-10-29",
-   "close": 6.25
+   "date": "2026-10-30",
+   "close": 6.34
   },
   "00689R": {
-   "date": "2026-10-28",
-   "close": 23.19
+   "date": "2026-10-30",
+   "close": 23.09
   },
   "00690": {
-   "date": "2026-10-29",
-   "close": 75.85
+   "date": "2026-10-30",
+   "close": 73.45
   },
   "00692": {
-   "date": "2026-10-29",
-   "close": 93.1
+   "date": "2026-10-30",
+   "close": 91.15
   },
   "00693U": {
-   "date": "2026-10-29",
-   "close": 22.24
+   "date": "2026-10-30",
+   "close": 22.35
   },
   "00700": {
-   "date": "2026-10-29",
-   "close": 16.51
+   "date": "2026-10-30",
+   "close": 16.72
   },
   "00701": {
-   "date": "2026-10-29",
-   "close": 42.66
+   "date": "2026-10-30",
+   "close": 42.86
   },
   "00702": {
-   "date": "2026-10-29",
-   "close": 25.01
+   "date": "2026-10-30",
+   "close": 25.12
   },
   "00703": {
-   "date": "2026-10-29",
-   "close": 17.93
+   "date": "2026-10-30",
+   "close": 18.1
   },
   "00706L": {
-   "date": "2026-10-29",
-   "close": 19.08
+   "date": "2026-10-30",
+   "close": 19.14
   },
   "00708L": {
-   "date": "2026-10-29",
-   "close": 67.35
-  },
-  "00709": {
-   "date": "2026-10-29",
-   "close": 39.7
-  },
-  "00710B": {
-   "date": "2026-10-29",
-   "close": 18.94
-  },
-  "00711B": {
-   "date": "2026-10-29",
-   "close": 15.32
-  },
-  "00712": {
-   "date": "2026-10-29",
-   "close": 7.16
-  },
-  "00713": {
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "close": 65.95
   },
+  "00709": {
+   "date": "2026-10-30",
+   "close": 39.8
+  },
+  "00710B": {
+   "date": "2026-10-30",
+   "close": 18.93
+  },
+  "00711B": {
+   "date": "2026-10-30",
+   "close": 15.48
+  },
+  "00712": {
+   "date": "2026-10-30",
+   "close": 7.26
+  },
+  "00713": {
+   "date": "2026-10-30",
+   "close": 65.7
+  },
   "00714": {
-   "date": "2026-10-29",
-   "close": 21.19
+   "date": "2026-10-30",
+   "close": 21.74
   },
   "00715L": {
-   "date": "2026-10-29",
-   "close": 87.8
+   "date": "2026-10-30",
+   "close": 91.05
   },
   "00717": {
-   "date": "2026-10-29",
-   "close": 14.13
+   "date": "2026-10-30",
+   "close": 14.01
   },
   "00728": {
-   "date": "2026-10-29",
-   "close": 64.2
+   "date": "2026-10-30",
+   "close": 62.3
   },
   "00730": {
-   "date": "2026-10-29",
-   "close": 29.18
+   "date": "2026-10-30",
+   "close": 28.59
   },
   "00731": {
-   "date": "2026-10-29",
-   "close": 102.8
+   "date": "2026-10-30",
+   "close": 102.3
   },
   "00733": {
-   "date": "2026-10-29",
-   "close": 71.6
+   "date": "2026-10-30",
+   "close": 67.95
   },
   "00735": {
-   "date": "2026-10-29",
-   "close": 100.3
+   "date": "2026-10-30",
+   "close": 96.75
   },
   "00736": {
-   "date": "2026-10-29",
-   "close": 30.47
+   "date": "2026-10-30",
+   "close": 30.3
   },
   "00737": {
-   "date": "2026-10-29",
-   "close": 41.37
+   "date": "2026-10-30",
+   "close": 40.51
   },
   "00738U": {
-   "date": "2026-10-29",
-   "close": 42.21
+   "date": "2026-10-30",
+   "close": 40.75
   },
   "00739": {
-   "date": "2026-10-29",
-   "close": 24.95
+   "date": "2026-10-30",
+   "close": 24.89
   },
   "00752": {
-   "date": "2026-10-29",
-   "close": 21.24
+   "date": "2026-10-30",
+   "close": 21.52
   },
   "00753L": {
-   "date": "2026-10-29",
-   "close": 7.55
+   "date": "2026-10-30",
+   "close": 7.66
   },
   "00757": {
-   "date": "2026-10-29",
-   "close": 140.4
+   "date": "2026-10-30",
+   "close": 136.55
   },
   "00762": {
-   "date": "2026-10-29",
-   "close": 113.55
+   "date": "2026-10-30",
+   "close": 108.25
   },
   "00763U": {
-   "date": "2026-10-29",
-   "close": 34.95
+   "date": "2026-10-30",
+   "close": 34.4
   },
   "00770": {
-   "date": "2026-10-29",
-   "close": 63.75
+   "date": "2026-10-30",
+   "close": 62.25
   },
   "00771": {
-   "date": "2026-10-29",
-   "close": 14.85
+   "date": "2026-10-30",
+   "close": 14.78
   },
   "00783": {
-   "date": "2026-10-29",
-   "close": 24.35
+   "date": "2026-10-30",
+   "close": 24.17
   },
   "00830": {
-   "date": "2026-10-29",
-   "close": 82.95
+   "date": "2026-10-30",
+   "close": 80.05
   },
   "00850": {
-   "date": "2026-10-29",
-   "close": 92.1
+   "date": "2026-10-30",
+   "close": 89.85
   },
   "00851": {
-   "date": "2026-10-29",
-   "close": 67.55
+   "date": "2026-10-30",
+   "close": 66.35
   },
   "00852L": {
-   "date": "2026-10-29",
-   "close": 34.74
+   "date": "2026-10-30",
+   "close": 34.02
   },
   "00861": {
-   "date": "2026-10-29",
-   "close": 82.65
+   "date": "2026-10-30",
+   "close": 81.2
   },
   "00865B": {
-   "date": "2026-10-29",
-   "close": 50.15
+   "date": "2026-10-30",
+   "close": 50.2
   },
   "00875": {
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "close": 63.1
   },
   "00876": {
-   "date": "2026-10-29",
-   "close": 83.75
+   "date": "2026-10-30",
+   "close": 81.7
   },
   "00878": {
-   "date": "2026-10-29",
-   "close": 35.3
+   "date": "2026-10-30",
+   "close": 34.81
   },
   "00881": {
-   "date": "2026-10-29",
-   "close": 48.38
+   "date": "2026-10-30",
+   "close": 46.9
   },
   "00882": {
-   "date": "2026-10-29",
-   "close": 14.85
+   "date": "2026-10-30",
+   "close": 15.1
   },
   "00885": {
-   "date": "2026-10-29",
-   "close": 18.0
+   "date": "2026-10-30",
+   "close": 17.88
   },
   "00891": {
-   "date": "2026-10-29",
-   "close": 35.07
+   "date": "2026-10-30",
+   "close": 34.15
   },
   "00892": {
-   "date": "2026-10-29",
-   "close": 40.34
+   "date": "2026-10-30",
+   "close": 39.18
   },
   "00893": {
-   "date": "2026-10-29",
-   "close": 44.46
+   "date": "2026-10-30",
+   "close": 43.47
   },
   "00894": {
-   "date": "2026-10-29",
-   "close": 46.13
+   "date": "2026-10-30",
+   "close": 44.4
   },
   "00895": {
-   "date": "2026-10-29",
-   "close": 50.75
+   "date": "2026-10-30",
+   "close": 49.8
   },
   "00896": {
-   "date": "2026-10-29",
-   "close": 26.92
+   "date": "2026-10-30",
+   "close": 26.08
   },
   "00897": {
-   "date": "2026-10-29",
-   "close": 14.89
+   "date": "2026-10-30",
+   "close": 14.63
   },
   "00898": {
-   "date": "2026-10-29",
-   "close": 12.37
+   "date": "2026-10-30",
+   "close": 12.03
   },
   "00899": {
-   "date": "2026-10-29",
-   "close": 21.32
+   "date": "2026-10-30",
+   "close": 21.35
   },
   "00900": {
-   "date": "2026-10-29",
-   "close": 19.78
+   "date": "2026-10-30",
+   "close": 19.6
   },
   "00901": {
-   "date": "2026-10-29",
-   "close": 44.29
+   "date": "2026-10-30",
+   "close": 42.92
   },
   "00902": {
-   "date": "2026-10-29",
-   "close": 11.48
+   "date": "2026-10-30",
+   "close": 11.38
   },
   "00903": {
-   "date": "2026-10-29",
-   "close": 21.03
+   "date": "2026-10-30",
+   "close": 20.38
   },
   "00904": {
-   "date": "2026-10-29",
-   "close": 38.39
+   "date": "2026-10-30",
+   "close": 37.27
   },
   "00905": {
-   "date": "2026-10-29",
-   "close": 25.65
+   "date": "2026-10-30",
+   "close": 24.97
   },
   "00907": {
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "close": 18.31
   },
   "00908": {
-   "date": "2026-10-29",
-   "close": 14.75
+   "date": "2026-10-30",
+   "close": 14.92
   },
   "00909": {
-   "date": "2026-10-29",
-   "close": 40.17
+   "date": "2026-10-30",
+   "close": 38.72
   },
   "00910": {
-   "date": "2026-10-29",
-   "close": 52.9
+   "date": "2026-10-30",
+   "close": 52.3
   },
   "00911": {
-   "date": "2026-10-29",
-   "close": 52.45
+   "date": "2026-10-30",
+   "close": 50.85
   },
   "00912": {
-   "date": "2026-10-29",
-   "close": 32.85
+   "date": "2026-10-30",
+   "close": 32.01
   },
   "00913": {
-   "date": "2026-10-29",
-   "close": 47.61
+   "date": "2026-10-30",
+   "close": 45.9
   },
   "00915": {
-   "date": "2026-10-29",
-   "close": 33.62
+   "date": "2026-10-30",
+   "close": 33.35
   },
   "00916": {
-   "date": "2026-10-29",
-   "close": 27.83
+   "date": "2026-10-30",
+   "close": 27.46
   },
   "00917": {
-   "date": "2026-10-29",
-   "close": 23.24
+   "date": "2026-10-30",
+   "close": 23.5
   },
   "00918": {
-   "date": "2026-10-29",
-   "close": 34.71
+   "date": "2026-10-30",
+   "close": 34.41
   },
   "00919": {
-   "date": "2026-10-29",
-   "close": 32.87
+   "date": "2026-10-30",
+   "close": 32.59
   },
   "00920": {
-   "date": "2026-10-29",
-   "close": 23.61
+   "date": "2026-10-30",
+   "close": 23.26
   },
   "00921": {
-   "date": "2026-10-29",
-   "close": 23.58
+   "date": "2026-10-30",
+   "close": 23.05
   },
   "00922": {
-   "date": "2026-10-29",
-   "close": 39.51
+   "date": "2026-10-30",
+   "close": 38.45
   },
   "00923": {
-   "date": "2026-10-29",
-   "close": 39.17
+   "date": "2026-10-30",
+   "close": 38.16
   },
   "00924": {
-   "date": "2026-10-29",
-   "close": 33.77
+   "date": "2026-10-30",
+   "close": 33.11
   },
   "00925": {
    "date": "2025-06-04",
    "close": 16.1
   },
   "00926": {
-   "date": "2026-10-29",
-   "close": 27.57
+   "date": "2026-10-30",
+   "close": 27.51
   },
   "00927": {
-   "date": "2026-10-29",
-   "close": 35.0
+   "date": "2026-10-30",
+   "close": 33.84
   },
   "00929": {
-   "date": "2026-10-29",
-   "close": 28.58
+   "date": "2026-10-30",
+   "close": 27.67
   },
   "00930": {
-   "date": "2026-10-29",
-   "close": 23.18
+   "date": "2026-10-30",
+   "close": 22.76
   },
   "00932": {
-   "date": "2026-10-29",
-   "close": 17.62
+   "date": "2026-10-30",
+   "close": 17.33
   },
   "00934": {
-   "date": "2026-10-29",
-   "close": 29.74
+   "date": "2026-10-30",
+   "close": 29.4
   },
   "00935": {
-   "date": "2026-10-29",
-   "close": 55.2
+   "date": "2026-10-30",
+   "close": 53.3
   },
   "00936": {
-   "date": "2026-10-29",
-   "close": 21.69
+   "date": "2026-10-30",
+   "close": 21.29
   },
   "00938": {
-   "date": "2026-10-29",
-   "close": 27.58
+   "date": "2026-10-30",
+   "close": 27.34
   },
   "00939": {
-   "date": "2026-10-29",
-   "close": 25.33
+   "date": "2026-10-30",
+   "close": 25.22
   },
   "00940": {
-   "date": "2026-10-29",
-   "close": 13.32
+   "date": "2026-10-30",
+   "close": 13.08
   },
   "00941": {
-   "date": "2026-10-29",
-   "close": 24.86
+   "date": "2026-10-30",
+   "close": 24.61
   },
   "00943": {
-   "date": "2026-10-29",
-   "close": 20.98
+   "date": "2026-10-30",
+   "close": 20.63
   },
   "00944": {
-   "date": "2026-10-29",
-   "close": 22.14
+   "date": "2026-10-30",
+   "close": 21.74
   },
   "00945B": {
-   "date": "2026-10-29",
-   "close": 14.48
+   "date": "2026-10-30",
+   "close": 14.51
   },
   "00946": {
-   "date": "2026-10-29",
-   "close": 15.55
+   "date": "2026-10-30",
+   "close": 15.23
   },
   "00947": {
-   "date": "2026-10-29",
-   "close": 35.5
+   "date": "2026-10-30",
+   "close": 34.09
   },
   "00949": {
-   "date": "2026-10-29",
-   "close": 22.33
+   "date": "2026-10-30",
+   "close": 22.24
   },
   "00951": {
-   "date": "2026-10-29",
-   "close": 16.53
+   "date": "2026-10-30",
+   "close": 15.65
   },
   "00952": {
-   "date": "2026-10-29",
-   "close": 17.48
+   "date": "2026-10-30",
+   "close": 16.93
   },
   "00953B": {
-   "date": "2026-10-29",
-   "close": 9.65
+   "date": "2026-10-30",
+   "close": 9.66
   },
   "00954": {
-   "date": "2026-10-29",
-   "close": 17.71
+   "date": "2026-10-30",
+   "close": 16.7
   },
   "00956": {
-   "date": "2026-10-29",
-   "close": 13.42
+   "date": "2026-10-30",
+   "close": 13.57
   },
   "00960": {
-   "date": "2026-10-29",
-   "close": 23.15
+   "date": "2026-10-30",
+   "close": 23.61
   },
   "00961": {
-   "date": "2026-10-29",
-   "close": 13.52
+   "date": "2026-10-30",
+   "close": 13.4
   },
   "00962": {
-   "date": "2026-10-29",
-   "close": 14.43
+   "date": "2026-10-30",
+   "close": 14.01
   },
   "00963": {
-   "date": "2026-10-29",
-   "close": 12.41
+   "date": "2026-10-30",
+   "close": 12.55
   },
   "00964": {
-   "date": "2026-10-29",
-   "close": 14.5
+   "date": "2026-10-30",
+   "close": 14.42
   },
   "00965": {
-   "date": "2026-10-29",
-   "close": 23.88
+   "date": "2026-10-30",
+   "close": 23.61
   },
   "00679B": {
-   "date": "2026-10-29",
-   "close": 26.23
+   "date": "2026-10-30",
+   "close": 26.46
   },
   "00687B": {
-   "date": "2026-10-29",
-   "close": 27.27
+   "date": "2026-10-30",
+   "close": 27.51
   },
   "00694B": {
-   "date": "2026-10-29",
-   "close": 42.41
+   "date": "2026-10-30",
+   "close": 42.58
   },
   "00695B": {
-   "date": "2026-10-29",
-   "close": 34.75
+   "date": "2026-10-30",
+   "close": 35.03
   },
   "00696B": {
-   "date": "2026-10-29",
-   "close": 28.28
+   "date": "2026-10-30",
+   "close": 28.51
   },
   "00697B": {
-   "date": "2026-10-29",
-   "close": 35.32
+   "date": "2026-10-30",
+   "close": 35.54
   },
   "00718B": {
    "date": "2025-06-17",
    "close": 19.05
   },
   "00719B": {
-   "date": "2026-10-29",
-   "close": 31.55
+   "date": "2026-10-30",
+   "close": 31.65
   },
   "00720B": {
-   "date": "2026-10-29",
-   "close": 31.93
+   "date": "2026-10-30",
+   "close": 32.0
   },
   "00722B": {
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "close": 33.56
   },
   "00723B": {
-   "date": "2026-10-29",
-   "close": 29.27
+   "date": "2026-10-30",
+   "close": 29.29
   },
   "00724B": {
-   "date": "2026-10-29",
-   "close": 32.67
+   "date": "2026-10-30",
+   "close": 32.78
   },
   "00725B": {
-   "date": "2026-10-29",
-   "close": 33.94
+   "date": "2026-10-30",
+   "close": 34.05
   },
   "00726B": {
-   "date": "2026-10-29",
-   "close": 31.83
+   "date": "2026-10-30",
+   "close": 31.98
   },
   "00727B": {
-   "date": "2026-10-29",
-   "close": 39.13
+   "date": "2026-10-30",
+   "close": 39.16
   },
   "00734B": {
-   "date": "2026-10-29",
-   "close": 15.37
+   "date": "2026-10-30",
+   "close": 15.51
   },
   "00740B": {
-   "date": "2026-10-29",
-   "close": 37.36
+   "date": "2026-10-30",
+   "close": 37.44
   },
   "00741B": {
-   "date": "2026-10-29",
-   "close": 37.25
+   "date": "2026-10-30",
+   "close": 37.28
   },
   "00746B": {
-   "date": "2026-10-29",
-   "close": 34.54
+   "date": "2026-10-30",
+   "close": 34.68
   },
   "00749B": {
-   "date": "2026-10-29",
-   "close": 30.48
+   "date": "2026-10-30",
+   "close": 30.67
   },
   "00750B": {
-   "date": "2026-10-29",
-   "close": 31.7
+   "date": "2026-10-30",
+   "close": 31.71
   },
   "00751B": {
-   "date": "2026-10-29",
-   "close": 30.49
+   "date": "2026-10-30",
+   "close": 30.52
   },
   "00754B": {
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "close": 31.87
   },
   "00755B": {
-   "date": "2026-10-29",
-   "close": 32.29
+   "date": "2026-10-30",
+   "close": 32.45
   },
   "00756B": {
-   "date": "2026-10-29",
-   "close": 30.26
+   "date": "2026-10-30",
+   "close": 30.5
   },
   "00758B": {
-   "date": "2026-10-29",
-   "close": 51.3
+   "date": "2026-10-30",
+   "close": 51.55
   },
   "00759B": {
-   "date": "2026-10-29",
-   "close": 53.9
+   "date": "2026-10-30",
+   "close": 54.1
   },
   "00760B": {
-   "date": "2026-10-29",
-   "close": 52.2
+   "date": "2026-10-30",
+   "close": 52.35
   },
   "00761B": {
-   "date": "2026-10-29",
-   "close": 33.62
+   "date": "2026-10-30",
+   "close": 33.67
   },
   "00764B": {
-   "date": "2026-10-29",
-   "close": 27.22
+   "date": "2026-10-30",
+   "close": 27.42
   },
   "00768B": {
-   "date": "2026-10-29",
-   "close": 48.85
+   "date": "2026-10-30",
+   "close": 49.27
   },
   "00772B": {
-   "date": "2026-10-29",
-   "close": 32.75
+   "date": "2026-10-30",
+   "close": 32.86
   },
   "00773B": {
-   "date": "2026-10-29",
-   "close": 34.93
+   "date": "2026-10-30",
+   "close": 35.11
   },
   "00777B": {
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "close": 31.55
   },
   "00778B": {
-   "date": "2026-10-29",
-   "close": 33.55
+   "date": "2026-10-30",
+   "close": 33.66
   },
   "00779B": {
-   "date": "2026-10-29",
-   "close": 27.52
+   "date": "2026-10-30",
+   "close": 27.7
   },
   "00780B": {
-   "date": "2026-10-29",
-   "close": 36.84
+   "date": "2026-10-30",
+   "close": 37.03
   },
   "00781B": {
-   "date": "2026-10-29",
-   "close": 27.07
+   "date": "2026-10-30",
+   "close": 27.09
   },
   "00782B": {
-   "date": "2026-10-29",
-   "close": 29.51
+   "date": "2026-10-30",
+   "close": 29.57
   },
   "00784B": {
    "date": "2025-04-22",
    "close": 39.32
   },
   "00785B": {
-   "date": "2026-10-29",
-   "close": 34.01
+   "date": "2026-10-30",
+   "close": 34.17
   },
   "00786B": {
-   "date": "2026-10-29",
-   "close": 32.2
+   "date": "2026-10-30",
+   "close": 32.32
   },
   "00787B": {
-   "date": "2026-10-29",
-   "close": 31.97
+   "date": "2026-10-30",
+   "close": 32.07
   },
   "00788B": {
-   "date": "2026-10-29",
-   "close": 29.41
+   "date": "2026-10-30",
+   "close": 29.47
   },
   "00789B": {
-   "date": "2026-10-29",
-   "close": 46.35
+   "date": "2026-10-30",
+   "close": 46.32
   },
   "00790B": {
    "date": "2025-04-15",
    "close": 53.2
   },
   "00791B": {
-   "date": "2026-10-29",
-   "close": 57.1
+   "date": "2026-10-30",
+   "close": 57.35
   },
   "00792B": {
-   "date": "2026-10-29",
-   "close": 30.89
+   "date": "2026-10-30",
+   "close": 31.05
   },
   "00793B": {
    "date": "2026-09-17",
@@ -14566,591 +14578,591 @@
    "close": 39.82
   },
   "00795B": {
-   "date": "2026-10-29",
-   "close": 26.39
+   "date": "2026-10-30",
+   "close": 26.59
   },
   "00799B": {
-   "date": "2026-10-29",
-   "close": 29.11
+   "date": "2026-10-30",
+   "close": 29.18
   },
   "00834B": {
-   "date": "2026-10-29",
-   "close": 33.06
+   "date": "2026-10-30",
+   "close": 33.28
   },
   "00836B": {
-   "date": "2026-10-29",
-   "close": 27.99
+   "date": "2026-10-30",
+   "close": 28.2
   },
   "00840B": {
-   "date": "2026-10-29",
-   "close": 29.04
+   "date": "2026-10-30",
+   "close": 29.1
   },
   "00841B": {
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "close": 27.8
   },
   "00842B": {
-   "date": "2026-10-29",
-   "close": 29.04
+   "date": "2026-10-30",
+   "close": 29.1
   },
   "00844B": {
-   "date": "2026-10-29",
-   "close": 30.85
+   "date": "2026-10-30",
+   "close": 31.05
   },
   "00845B": {
-   "date": "2026-10-29",
-   "close": 32.76
+   "date": "2026-10-30",
+   "close": 32.93
   },
   "00846B": {
-   "date": "2026-10-29",
-   "close": 35.27
+   "date": "2026-10-30",
+   "close": 35.33
   },
   "00847B": {
    "date": "2026-10-02",
    "close": 23.3
   },
   "00848B": {
-   "date": "2026-10-29",
-   "close": 33.13
+   "date": "2026-10-30",
+   "close": 33.4
   },
   "00849B": {
-   "date": "2026-10-29",
-   "close": 37.9
+   "date": "2026-10-30",
+   "close": 38.14
   },
   "00853B": {
-   "date": "2026-10-29",
-   "close": 26.87
+   "date": "2026-10-30",
+   "close": 26.96
   },
   "00856B": {
-   "date": "2026-10-29",
-   "close": 38.2
+   "date": "2026-10-30",
+   "close": 38.47
   },
   "00857B": {
-   "date": "2026-10-29",
-   "close": 22.68
+   "date": "2026-10-30",
+   "close": 22.85
   },
   "00858": {
-   "date": "2026-10-29",
-   "close": 36.88
+   "date": "2026-10-30",
+   "close": 36.5
   },
   "00859B": {
-   "date": "2026-10-29",
-   "close": 41.65
+   "date": "2026-10-30",
+   "close": 41.77
   },
   "00860B": {
-   "date": "2026-10-29",
-   "close": 38.79
+   "date": "2026-10-30",
+   "close": 38.94
   },
   "00862B": {
-   "date": "2026-10-29",
-   "close": 30.65
+   "date": "2026-10-30",
+   "close": 30.75
   },
   "00863B": {
-   "date": "2026-10-29",
-   "close": 30.41
+   "date": "2026-10-30",
+   "close": 30.42
   },
   "00864B": {
-   "date": "2026-10-29",
-   "close": 47.28
+   "date": "2026-10-30",
+   "close": 47.38
   },
   "00867B": {
-   "date": "2026-10-29",
-   "close": 29.56
+   "date": "2026-10-30",
+   "close": 29.52
   },
   "00870B": {
-   "date": "2026-10-29",
-   "close": 27.05
+   "date": "2026-10-30",
+   "close": 27.24
   },
   "00877": {
-   "date": "2026-10-29",
-   "close": 27.53
+   "date": "2026-10-30",
+   "close": 26.14
   },
   "00883B": {
    "date": "2026-05-06",
    "close": 30.98
   },
   "00884B": {
-   "date": "2026-10-29",
-   "close": 28.43
+   "date": "2026-10-30",
+   "close": 28.66
   },
   "00886": {
-   "date": "2026-10-29",
-   "close": 49.9
+   "date": "2026-10-30",
+   "close": 49.09
   },
   "00887": {
-   "date": "2026-10-29",
-   "close": 13.28
+   "date": "2026-10-30",
+   "close": 12.99
   },
   "00888": {
-   "date": "2026-10-29",
-   "close": 31.98
+   "date": "2026-10-30",
+   "close": 31.07
   },
   "00890B": {
-   "date": "2026-10-29",
-   "close": 31.36
+   "date": "2026-10-30",
+   "close": 31.42
   },
   "00928": {
-   "date": "2026-10-29",
-   "close": 31.35
+   "date": "2026-10-30",
+   "close": 29.68
   },
   "00931B": {
-   "date": "2026-10-29",
-   "close": 13.13
+   "date": "2026-10-30",
+   "close": 13.24
   },
   "00933B": {
-   "date": "2026-10-29",
-   "close": 15.63
+   "date": "2026-10-30",
+   "close": 15.69
   },
   "00937B": {
-   "date": "2026-10-29",
-   "close": 14.29
+   "date": "2026-10-30",
+   "close": 14.3
   },
   "00942B": {
-   "date": "2026-10-29",
-   "close": 13.87
+   "date": "2026-10-30",
+   "close": 13.9
   },
   "00948B": {
-   "date": "2026-10-29",
-   "close": 9.19
+   "date": "2026-10-30",
+   "close": 9.21
   },
   "00950B": {
-   "date": "2026-10-29",
-   "close": 13.77
+   "date": "2026-10-30",
+   "close": 13.85
   },
   "00955": {
-   "date": "2026-10-29",
-   "close": 16.57
+   "date": "2026-10-30",
+   "close": 16.38
   },
   "00957B": {
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "close": 13.05
   },
   "00958B": {
-   "date": "2026-10-29",
-   "close": 8.99
-  },
-  "00959B": {
-   "date": "2026-10-29",
-   "close": 9.06
-  },
-  "00966B": {
-   "date": "2026-10-29",
-   "close": 13.59
-  },
-  "00967B": {
-   "date": "2026-10-29",
-   "close": 8.97
-  },
-  "00968B": {
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "close": 9.01
   },
+  "00959B": {
+   "date": "2026-10-30",
+   "close": 9.08
+  },
+  "00966B": {
+   "date": "2026-10-30",
+   "close": 13.63
+  },
+  "00967B": {
+   "date": "2026-10-30",
+   "close": 9.04
+  },
+  "00968B": {
+   "date": "2026-10-30",
+   "close": 9.03
+  },
   "00969B": {
-   "date": "2026-10-29",
-   "close": 8.14
+   "date": "2026-10-30",
+   "close": 8.23
   },
   "00970B": {
-   "date": "2026-10-29",
-   "close": 9.07
+   "date": "2026-10-30",
+   "close": 9.08
   },
   "006201": {
-   "date": "2026-10-29",
-   "close": 43.04
+   "date": "2026-10-30",
+   "close": 40.8
   },
   "00775B": {
-   "date": "2026-10-29",
-   "close": 31.43
+   "date": "2026-10-30",
+   "close": 31.62
   },
   "00625K": {
-   "date": "2026-10-28",
-   "close": 7.86
+   "date": "2026-10-30",
+   "close": 7.91
   },
   "00707R": {
-   "date": "2026-10-16",
-   "close": 32.05
+   "date": "2026-10-30",
+   "close": 32.08
   },
   "00971": {
-   "date": "2026-10-29",
-   "close": 18.08
+   "date": "2026-10-30",
+   "close": 17.77
   },
   "00972": {
-   "date": "2026-10-29",
-   "close": 22.05
+   "date": "2026-10-30",
+   "close": 22.37
   },
   "00687C": {
-   "date": "2026-10-29",
-   "close": 9.05
+   "date": "2026-10-30",
+   "close": 9.09
   },
   "00980B": {
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "close": 9.2
   },
   "009800": {
-   "date": "2026-10-29",
-   "close": 13.39
+   "date": "2026-10-30",
+   "close": 13.09
   },
   "009801": {
-   "date": "2026-10-29",
-   "close": 11.43
+   "date": "2026-10-30",
+   "close": 11.14
   },
   "00981B": {
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "close": 8.98
   },
   "009803": {
-   "date": "2026-10-29",
-   "close": 20.57
+   "date": "2026-10-30",
+   "close": 20.05
   },
   "00643K": {
-   "date": "2026-10-28",
-   "close": 3.27
+   "date": "2026-10-30",
+   "close": 3.16
   },
   "009802": {
-   "date": "2026-10-29",
-   "close": 19.42
+   "date": "2026-10-30",
+   "close": 18.88
   },
   "009804": {
-   "date": "2026-10-29",
-   "close": 22.87
+   "date": "2026-10-30",
+   "close": 22.23
   },
   "00982B": {
-   "date": "2026-10-29",
-   "close": 9.48
+   "date": "2026-10-30",
+   "close": 9.52
   },
   "00980A": {
-   "date": "2026-10-29",
-   "close": 23.84
+   "date": "2026-10-30",
+   "close": 22.91
   },
   "009805": {
-   "date": "2026-10-29",
-   "close": 14.57
+   "date": "2026-10-30",
+   "close": 14.58
   },
   "00983B": {
-   "date": "2026-10-29",
-   "close": 15.34
+   "date": "2026-10-30",
+   "close": 15.46
   },
   "00984B": {
-   "date": "2026-10-29",
-   "close": 15.9
+   "date": "2026-10-30",
+   "close": 15.92
   },
   "009808": {
-   "date": "2026-10-29",
-   "close": 30.9
+   "date": "2026-10-30",
+   "close": 30.27
   },
   "00982A": {
-   "date": "2026-10-29",
-   "close": 21.58
+   "date": "2026-10-30",
+   "close": 20.66
   },
   "00981A": {
-   "date": "2026-10-29",
-   "close": 27.81
+   "date": "2026-10-30",
+   "close": 26.66
   },
   "009806": {
-   "date": "2026-10-29",
-   "close": 14.05
+   "date": "2026-10-30",
+   "close": 13.95
   },
   "009807": {
    "date": "2026-10-29",
    "close": 17.59
   },
   "00983A": {
-   "date": "2026-10-29",
-   "close": 12.86
+   "date": "2026-10-30",
+   "close": 12.5
   },
   "00984A": {
-   "date": "2026-10-29",
-   "close": 15.13
+   "date": "2026-10-30",
+   "close": 14.8
   },
   "009810": {
-   "date": "2026-10-29",
-   "close": 21.74
+   "date": "2026-10-30",
+   "close": 21.48
   },
   "00985A": {
-   "date": "2026-10-29",
-   "close": 20.37
+   "date": "2026-10-30",
+   "close": 19.81
   },
   "009811": {
-   "date": "2026-10-29",
-   "close": 13.68
+   "date": "2026-10-30",
+   "close": 13.42
   },
   "00980D": {
-   "date": "2026-10-29",
-   "close": 19.74
+   "date": "2026-10-30",
+   "close": 19.76
   },
   "00980T": {
-   "date": "2026-10-29",
-   "close": 12.19
+   "date": "2026-10-30",
+   "close": 11.97
   },
   "00986A": {
-   "date": "2026-10-29",
-   "close": 14.17
+   "date": "2026-10-30",
+   "close": 13.83
   },
   "00985B": {
-   "date": "2026-10-29",
-   "close": 10.28
+   "date": "2026-10-30",
+   "close": 10.33
   },
   "00981D": {
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "close": 10.18
   },
   "009812": {
-   "date": "2026-10-29",
-   "close": 12.99
+   "date": "2026-10-30",
+   "close": 12.96
   },
   "00981T": {
-   "date": "2026-10-29",
-   "close": 11.67
+   "date": "2026-10-30",
+   "close": 11.62
   },
   "009809": {
-   "date": "2026-10-29",
-   "close": 17.96
+   "date": "2026-10-30",
+   "close": 17.64
   },
   "00982D": {
-   "date": "2026-10-29",
-   "close": 9.58
+   "date": "2026-10-30",
+   "close": 9.6
   },
   "00983D": {
-   "date": "2026-10-29",
-   "close": 9.9
+   "date": "2026-10-30",
+   "close": 9.91
   },
   "009813": {
-   "date": "2026-10-29",
-   "close": 11.66
+   "date": "2026-10-30",
+   "close": 11.47
   },
   "00989A": {
-   "date": "2026-10-29",
-   "close": 17.26
+   "date": "2026-10-30",
+   "close": 16.73
   },
   "00988A": {
-   "date": "2026-10-29",
-   "close": 15.17
+   "date": "2026-10-30",
+   "close": 14.54
   },
   "00986B": {
-   "date": "2026-10-27",
-   "close": 9.52
+   "date": "2026-10-30",
+   "close": 9.61
   },
   "00991A": {
-   "date": "2026-10-29",
-   "close": 16.88
+   "date": "2026-10-30",
+   "close": 16.21
   },
   "009814": {
-   "date": "2026-10-29",
-   "close": 11.66
+   "date": "2026-10-30",
+   "close": 11.56
   },
   "00990A": {
-   "date": "2026-10-29",
-   "close": 14.7
+   "date": "2026-10-30",
+   "close": 14.17
   },
   "00982T": {
-   "date": "2026-10-29",
-   "close": 14.5
+   "date": "2026-10-30",
+   "close": 14.17
   },
   "00987A": {
-   "date": "2026-10-29",
-   "close": 15.57
+   "date": "2026-10-30",
+   "close": 15.0
   },
   "00992A": {
-   "date": "2026-10-29",
-   "close": 16.63
+   "date": "2026-10-30",
+   "close": 15.81
   },
   "00994A": {
-   "date": "2026-10-29",
-   "close": 15.87
+   "date": "2026-10-30",
+   "close": 15.31
   },
   "00995A": {
-   "date": "2026-10-29",
-   "close": 15.69
+   "date": "2026-10-30",
+   "close": 15.03
   },
   "00987B": {
-   "date": "2026-10-29",
-   "close": 15.98
+   "date": "2026-10-30",
+   "close": 16.06
   },
   "009815": {
-   "date": "2026-10-29",
-   "close": 11.91
+   "date": "2026-10-30",
+   "close": 11.56
   },
   "009816": {
-   "date": "2026-10-29",
-   "close": 16.01
+   "date": "2026-10-30",
+   "close": 15.67
   },
   "00993A": {
-   "date": "2026-10-29",
-   "close": 12.94
+   "date": "2026-10-30",
+   "close": 12.38
   },
   "00984D": {
-   "date": "2026-10-29",
-   "close": 9.76
+   "date": "2026-10-30",
+   "close": 9.75
   },
   "009817": {
-   "date": "2026-10-29",
-   "close": 8.59
+   "date": "2026-10-30",
+   "close": 8.64
   },
   "009818": {
-   "date": "2026-10-29",
-   "close": 20.46
+   "date": "2026-10-30",
+   "close": 19.95
   },
   "00996A": {
-   "date": "2026-10-29",
-   "close": 12.72
+   "date": "2026-10-30",
+   "close": 12.18
   },
   "00988B": {
-   "date": "2026-10-29",
-   "close": 19.11
+   "date": "2026-10-30",
+   "close": 19.12
   },
   "00985D": {
-   "date": "2026-10-29",
-   "close": 9.87
+   "date": "2026-10-30",
+   "close": 9.88
   },
   "00989B": {
-   "date": "2026-10-29",
-   "close": 9.93
+   "date": "2026-10-30",
+   "close": 9.94
   },
   "00400A": {
-   "date": "2026-10-29",
-   "close": 14.36
+   "date": "2026-10-30",
+   "close": 13.8
   },
   "00401A": {
-   "date": "2026-10-29",
-   "close": 13.48
+   "date": "2026-10-30",
+   "close": 13.11
   },
   "00997A": {
-   "date": "2026-10-29",
-   "close": 10.8
+   "date": "2026-10-30",
+   "close": 10.47
   },
   "00986D": {
-   "date": "2026-10-29",
-   "close": 14.28
+   "date": "2026-10-30",
+   "close": 14.32
   },
   "00998A": {
-   "date": "2026-10-29",
-   "close": 16.17
+   "date": "2026-10-30",
+   "close": 16.25
   },
   "009819": {
-   "date": "2026-10-29",
-   "close": 9.71
+   "date": "2026-10-30",
+   "close": 9.49
   },
   "009820": {
-   "date": "2026-10-29",
-   "close": 10.12
+   "date": "2026-10-30",
+   "close": 9.79
   },
   "00999A": {
-   "date": "2026-10-29",
-   "close": 10.6
+   "date": "2026-10-30",
+   "close": 10.27
   },
   "00403A": {
-   "date": "2026-10-29",
-   "close": 10.01
+   "date": "2026-10-30",
+   "close": 9.66
   },
   "009822": {
-   "date": "2026-10-29",
-   "close": 8.68
+   "date": "2026-10-30",
+   "close": 8.63
   },
   "00402A": {
-   "date": "2026-10-29",
-   "close": 9.71
+   "date": "2026-10-30",
+   "close": 9.4
   },
   "00404A": {
-   "date": "2026-10-29",
-   "close": 9.43
+   "date": "2026-10-30",
+   "close": 9.17
   },
   "00405A": {
-   "date": "2026-10-29",
-   "close": 8.43
+   "date": "2026-10-30",
+   "close": 8.07
   },
   "00406A": {
-   "date": "2026-10-29",
-   "close": 8.95
+   "date": "2026-10-30",
+   "close": 8.6
   },
   "009821": {
-   "date": "2026-10-29",
-   "close": 12.26
+   "date": "2026-10-30",
+   "close": 11.98
   },
   "00407A": {
-   "date": "2026-10-29",
-   "close": 9.34
+   "date": "2026-10-30",
+   "close": 8.97
   },
   "009824": {
-   "date": "2026-10-29",
-   "close": 10.35
+   "date": "2026-10-30",
+   "close": 10.13
   },
   "009823": {
-   "date": "2026-10-29",
-   "close": 10.74
+   "date": "2026-10-30",
+   "close": 10.67
   },
   "00990B": {
-   "date": "2026-10-29",
+   "date": "2026-10-30",
    "close": 9.92
   },
   "00408A": {
-   "date": "2026-10-29",
-   "close": 9.6
+   "date": "2026-10-30",
+   "close": 9.28
   },
   "009825": {
-   "date": "2026-10-29",
-   "close": 9.52
+   "date": "2026-10-30",
+   "close": 9.48
   },
   "00410A": {
-   "date": "2026-10-29",
-   "close": 11.52
+   "date": "2026-10-30",
+   "close": 11.11
   },
   "009826": {
-   "date": "2026-10-29",
-   "close": 10.16
+   "date": "2026-10-30",
+   "close": 10.09
   },
   "00991B": {
-   "date": "2026-10-29",
-   "close": 15.04
+   "date": "2026-10-30",
+   "close": 15.07
   },
   "009829": {
-   "date": "2026-10-29",
-   "close": 9.73
+   "date": "2026-10-30",
+   "close": 9.28
   },
   "00411A": {
-   "date": "2026-10-29",
-   "close": 10.04
+   "date": "2026-10-30",
+   "close": 9.73
   },
   "00987D": {
-   "date": "2026-10-29",
-   "close": 10.1
+   "date": "2026-10-30",
+   "close": 10.19
   },
   "00409A": {
-   "date": "2026-10-29",
-   "close": 9.07
+   "date": "2026-10-30",
+   "close": 8.72
   },
   "009827": {
-   "date": "2026-10-29",
-   "close": 10.0
+   "date": "2026-10-30",
+   "close": 9.8
   },
   "009828": {
-   "date": "2026-10-29",
-   "close": 9.65
+   "date": "2026-10-30",
+   "close": 9.01
   },
   "00992B": {
-   "date": "2026-10-29",
-   "close": 9.95
+   "date": "2026-10-30",
+   "close": 9.88
   },
   "00412A": {
-   "date": "2026-10-29",
-   "close": 8.97
+   "date": "2026-10-30",
+   "close": 8.62
   },
   "00415A": {
-   "date": "2026-10-29",
-   "close": 9.36
+   "date": "2026-10-30",
+   "close": 9.0
   },
   "009831": {
-   "date": "2026-10-29",
-   "close": 9.9
+   "date": "2026-10-30",
+   "close": 9.69
   },
   "009832": {
-   "date": "2026-10-29",
-   "close": 10.01
+   "date": "2026-10-30",
+   "close": 9.76
   }
  },
  "sources_log": [
   {
    "source": "https://www.twse.com.tw/zh/ETFortune/dividendList?stkNo=&startDate=2025&endDate=2026",
    "ok": true,
-   "rows": 806
+   "rows": 807
   },
   {
    "source": "twse daily close",
